@@ -1,0 +1,31 @@
+name: dir_gs
+channels:
+  - defaults
+dependencies:
+  - ninja=1.13.1
+  - python=3.9.25
+  - pip:
+      - diptest
+      - einops
+      - jaxtyping
+      - lpips
+      - nvdiffrast
+      - opencv-python
+      - plyfile==0.8.1
+      - pycolmap
+      - pyyaml
+      - safetensors
+      - six
+      - tinycudann==1.7
+      - torch==2.1.2+cu118
+      - torch-scatter==2.1.2+pt21cu118
+      - torchaudio==2.1.2+cu118
+      - torchvision==0.16.2+cu118
+      - tqdm
+      - transformers
+      - wandb
+      - yacs
+      - laspy
+      - submodules/diff-gaussian-rasterization
+      - submodules/simple-knn
+
