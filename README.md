@@ -3,10 +3,6 @@
 This is the official repository for **DIR-GS: DIBR Guided Neural Gaussian for Remote Sensing Sparse View Synthesis** 
 ![image](assets/overview.png)
 
-## Overview
-This project implements a sparse-view novel view synthesis framework based on monocular depth estimation and neural Gaussians.  
-The approach leverages Depth Image-Based Rendering (DIBR) to generate pseudo-view images. By training across multiple scenes, it achieves high-quality renderings and provides evaluation metrics for the generated results.
-
 ## Installation
 
 ### Dependencies
