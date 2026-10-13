@@ -1,6 +1,6 @@
-# DIR-GS: DIBR Guided Neural Gaussian for Remote Sensing Sparse View Synthesis 
+# DIBR-GS: Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering
 
-This is the official repository for **DIR-GS: DIBR Guided Neural Gaussian for Remote Sensing Sparse View Synthesis** 
+This is the official repository for **Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering** 
 ![image](assets/overview.png)
 
 ## Installation
